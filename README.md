@@ -1,4 +1,4 @@
-I’m Rahul 
+I’m Rahul,
 interested in AI and ML, computer science
 currently learning a lot ...
 
